@@ -1,1 +1,1 @@
-"# IntelligentDiagnosisPlatform" 
+## 多病种的病理图像识别软件
