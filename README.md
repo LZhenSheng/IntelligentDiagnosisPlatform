@@ -16,3 +16,16 @@
 
 ### 1.3软件层次结构
 
+![1655494134977](https://github.com/lijianxing66628/IntelligentDiagnosisPlatform/blob/main/images/333.png)
+
+## 2.界面
+
+![1655494134977](https://github.com/lijianxing66628/IntelligentDiagnosisPlatform/blob/main/images/1.png)
+
+![1655494134977](https://github.com/lijianxing66628/IntelligentDiagnosisPlatform/blob/main/images/2.png)
+
+![1655494134977](https://github.com/lijianxing66628/IntelligentDiagnosisPlatform/blob/main/images/3.png)
+
+![1655494134977](https://github.com/lijianxing66628/IntelligentDiagnosisPlatform/blob/main/images/4.png)
+
+![1655494134977](https://github.com/lijianxing66628/IntelligentDiagnosisPlatform/blob/main/images/5.png)
